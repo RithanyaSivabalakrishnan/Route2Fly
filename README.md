@@ -19,14 +19,13 @@ Route2Fly is a fun and interactive Python desktop app for visualizing and explor
 2.	Choose your journey date with the built-in calendar picker.
 3.	Set your preference: optimize for Duration, Price, or Both.
 4.	Click "Optimize" – the app will:
+    •	Build a flight network from real CSV data.
 
-•	Build a flight network from real CSV data.
+    •	Show you a map with all relevant paths and layovers.
 
-•	Show you a map with all relevant paths and layovers.
+    •	List the best and alternate routes, so you can compare them.
 
-•	List the best and alternate routes, so you can compare them.
-
-•	Give you the airport code legend for every node in the graph.
+    •	Give you the airport code legend for every node in the graph.
 
 # 🛠️ Tech Stack
 •	Python 3.x
